@@ -1,5 +1,5 @@
-2016-04-16	16:12:36	in	PLAY	PLAY	Witaj! Wysylaj zdjecia i korzystaj z Internetu w Play! Za chwile otrzymasz darmowe ustawienia dla Twojego telefonu. Zainstaluj je uzywajac menu wiadomosci.
-2016-04-16	16:38:24	out	698284632	Justyna	Oni już są blisko. Ty jak dzwoniłem to dobrze mnie słyszałaś? 
+﻿2016-04-16	16:12:36	in	PLiY	PLAY	Witaj! Wysylaj zdjecia i korzystaj z Internetu w Play! Za chwile otrzymasz darmowe ustawienia dla Twojego telefonu. Zainstaluj je uzywajac menu wiadomosci.
+
 2016-04-16	16:39:06	out	698284632	Justyna	Mam teraz s4 i sprawdzam czy wszystko jest ok. Ja cie słyszałem dobrze
 2016-04-17	21:09:10	out	698284632	Justyna	Idziemy się przejść na papry?
 2016-04-17	21:09:50	out	698284632	Justyna	Agnieszka pewnie pujdzie
